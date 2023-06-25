@@ -10,7 +10,7 @@ h1{
     align-items: center;
     border: 1px solid #ccc;
     border-radius:15px;
-    background:linear-gradient(30deg,#4161d4,#62ff64);;
+    background:linear-gradient(30deg,#4161d4,#62ff64);
     padding: 10px;
     margin: 10px;
   }
